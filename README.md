@@ -1,4 +1,4 @@
-# Typhoons-and-island-fate
+# Typhoons_and_island_fate
 
 遊戲介紹
 
